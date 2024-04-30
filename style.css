@@ -1,0 +1,69 @@
+.butn button{
+    margin: 10px;
+    background-color: white;
+    font-weight: bold;
+}
+.butn button:hover{
+    color: red;
+    border-color: red;
+    
+}
+.nav-item a{
+    font-weight: bold;
+    margin: 10px;
+}
+.navbar-brand h1{
+    margin-left: 10px;
+}
+.para {
+    font-weight: bold;
+    font-size: 30px;
+    margin-right: px;
+}
+.red-butn{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.para2 {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(87, 87, 212);
+    margin: 5px;
+}
+.line1{
+    background-color: rgb(238, 236, 236);
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+.para2:hover{
+    color: red;
+    text-decoration: underline;
+}
+.para3:hover{
+color: red;
+}
+.image img{
+    height: 120px;
+}
+.images img{
+    height: 140px;
+    width: 175px;
+}
+p:hover{
+    color: red;
+}
+.box1 img{
+    margin-left: 40px;
+    height: 200px;
+}
+.ctnn p{
+    margin-left: 80px;
+}
+.heading p{
+    font-weight: bold;
+}
+.last{
+    background-color: rgb(58, 51, 51);
+}
